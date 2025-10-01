@@ -124,7 +124,7 @@ When using JSON the response output will contain the `status_txt` and `status_co
     "title": "Badgers animated music video MrWeebl",
     "tags": [],
     "description": null,
-    "nsfw": 0,
+    "nsfw": 1,
     "storage_mode": "datefolder",
     "md5": "7a120d5c28de264bdbb934f023a628fd",
     "source_md5": null,
